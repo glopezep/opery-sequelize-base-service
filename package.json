@@ -1,0 +1,21 @@
+{
+  "name": "opery-sequelize-base-service",
+  "version": "0.1.0",
+  "description": "Sequelize base service for opery",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/glopezep/opery-sequelize-base-service"
+  },
+  "keywords": [
+    "opery",
+    "sequelize",
+    "service",
+    "repository"
+  ],
+  "author": "Guillermo Lopez",
+  "license": "MIT"
+}
