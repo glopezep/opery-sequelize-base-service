@@ -4,17 +4,17 @@
 
 ## Description
 
-This service adds base methods for all models
+This service adds base methods for all models.
+
+## Requirements
+
+- You need some Sequelize Model to use this service.
 
 ## Installation
 
 ```bash
 npm install --save opery-sequelize-base-service
 ```
-
-## Requirements
-
-- You need some Sequelize Model to use this service.
 
 ## Methods
 
