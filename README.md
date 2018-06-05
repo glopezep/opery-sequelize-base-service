@@ -16,6 +16,16 @@ npm install --save opery-sequelize-base-service
 
 - You need some Sequelize Model to use this service.
 
+## Methods
+
+### db.models.SomeModel
+
+#### `create(data: Object, options: Object) => Promise<SomeModelInstance>`
+#### `findOne(id: Number, options: Object) => Promise<SomeModelInstance>`
+#### `findAll(options: Object) => Promise<[SomeModelInstance]>`
+#### `update(id: Number, data: Object options: Object) => Promise<SomeModelInstance>
+#### `delete(id: Number, options: Object) => Promise<Object>`
+`
 
 
 ## License
