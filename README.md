@@ -2,12 +2,21 @@
 
 > Sequelize base service for opery
 
+## Description
 
-## Install
+This service adds base methods for all models
+
+## Installation
 
 ```bash
 npm install --save opery-sequelize-base-service
 ```
+
+## Requirements
+
+- You need some Sequelize Model to use this service.
+
+
 
 ## License
 
