@@ -27,7 +27,6 @@ npm install --save opery-sequelize-base-service
 #### `delete(id: Number, options: Object) => Promise<Object>`
 `
 
-
 ## License
 
 MIT © [Guillermo Lopez](http://www.guillermolopez.net)
