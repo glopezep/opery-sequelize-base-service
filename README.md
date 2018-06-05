@@ -23,7 +23,7 @@ npm install --save opery-sequelize-base-service
 #### `create(data: Object, options: Object) => Promise<SomeModelInstance>`
 #### `findOne(id: Number, options: Object) => Promise<SomeModelInstance>`
 #### `findAll(options: Object) => Promise<[SomeModelInstance]>`
-#### `update(id: Number, data: Object options: Object) => Promise<SomeModelInstance>
+#### `update(id: Number, data: Object options: Object) => Promise<SomeModelInstance>`
 #### `delete(id: Number, options: Object) => Promise<Object>`
 `
 
