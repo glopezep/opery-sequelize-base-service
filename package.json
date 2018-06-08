@@ -1,6 +1,6 @@
 {
   "name": "opery-sequelize-base-service",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Sequelize base service for opery",
   "main": "index.js",
   "scripts": {
